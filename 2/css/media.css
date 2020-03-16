@@ -1,0 +1,11 @@
+@media screen and (max-width:1024px){
+    .catalog-list-item{
+        width:calc(50% - 40px);
+    }
+}
+
+@media screen and (max-width:768px){
+    .catalog-list-item{
+        width:calc(100% - 40px);
+    }
+}
